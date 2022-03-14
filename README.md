@@ -1,10 +1,7 @@
 # CPScrosswalks
 This repo holds machine-readable crosswalks for the US Census Bureau's 1970-present Industry &amp; Occupation Codes. Note that the dates are in reference to the years they were used for the monthly CPS. 
 
----
-title: "Crosswalk Notes"
-output: html_notebook
----
+## Crosswalk Notes
 
 The final crosswalk is compiled from a variety of crosswalk documentation that was scattered across the internet. These crosswalks did not perfectly match the data that we used from the CPS. Below are a list of discrepancies that are accounted for in our final crosswalk. 
 
