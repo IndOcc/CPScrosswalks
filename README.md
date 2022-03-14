@@ -88,7 +88,7 @@ Missing from original 1972-1982 crosswalk, but mentioned in documentation on 80s
 * 903
 * 904
 
-* 905: NOTE: IPUMS website ssays "Unemployed, last job armed forces", but the 1990-2000 crosswalk says "Miliary occupation, rank not specified"
+* 905: NOTE: IPUMS website says "Unemployed, last job armed forces", but the 1990-2000 crosswalk says "Miliary occupation, rank not specified"
 
 1992-Aug1995
 n/a
