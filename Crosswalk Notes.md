@@ -146,7 +146,7 @@ Per IPUMS documentation, 3, 16, and 179 were removed for these years. (Note that
 
 
 
-### Reference 
+### Reference List
 #### These were used in the creation of the final crosswalk. 
 
 [1]  "2010 Census Occupation Codes with Crosswalk." U.S. Census Bureau, Nov. 04, 2011. Accessed: Feb. 01, 2022. [Online]. Available: https://www2.census.gov/programs-surveys/demo/guidance/industry-occupation/2010-occ-codes-with-crosswalk-from-2002-2011.xls
