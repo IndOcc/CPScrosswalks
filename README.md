@@ -13,7 +13,7 @@ NOTE: There are sometimes categories listed on the IPUMS website that are not pr
 * 497: One individual is assigned this code. It does not correspond to any label, and is probably a typo. Not added to final crosswalk. 
 
 
-1983 - 1991
+#### 1983 - 1991
 
 * 991 has been added to the crosswalk in 1983-1991 and 1992-2002. It is listed as NA for all other years. 
 
@@ -22,12 +22,12 @@ NOTE: There are sometimes categories listed on the IPUMS website that are not pr
 * 940, 941, 942, 950, 951, 952, and 960 do not have a crosswalk into prior years, so they have been coded as NA. 
 
 
-1992-2002
+#### 1992-2002
 
 * 991 has been added to the crosswalk in 1983-1991 and 1992-2002. It is listed as NA for all other years. 
 
 
-2003 - 2008
+#### 2003 - 2008
 
 * 9890 is present in the data beginning in 2003 and has been added to the crosswalk up to the last year. Years prior to that are NA. 
 
@@ -36,31 +36,31 @@ NOTE: There are sometimes categories listed on the IPUMS website that are not pr
 * 9920 does not have a crosswalk into prior years, so they are coded as NA. 
 
 
-2009 - 2013
+#### 2009 - 2013
 
 * 9890 is present in the data beginning in 2003 and has been added to the crosswalk up to the last year. Years prior to that are NA. 
 
 * 6672 does not have a crosswalk into prior years, so they are coded into NA. 
 
 
-2014 - 2019
+#### 2014 - 2019
 
 * 9890 is present in the data beginning in 2003 and has been added to the crosswalk up to the last year. Years prior to that are NA. 
 
 
-2014 - 2019
+#### 2014 - 2019
 
 * 9890 is present in the data beginning in 2003 and has been added to the crosswalk up to the last year. Years prior to that are NA. 
 
 
-2020+ 
+#### 2020+ 
 
 * 9890 is present in the data beginning in 2003 and has been added to the crosswalk up to the last year. Years prior to that are NA. 
 
 
 ### Occupation
 
-1972-1982
+#### 1972-1982
 
 * 645: Mistakenly coded as 6452 in original crosswalk. This is corrected in the final crosswalk. 
 
@@ -92,7 +92,7 @@ Not in the crosswalk or listed on IPUMS. May be a typo:
 * 684
 
 
-1983 - 1991
+#### 1983 - 1991
 
 Missing from original 1972-1982 crosswalk, but mentioned in documentation on 80s-90s changes. Do appear to exist in 1980s codes, so added to final crosswalk with NAs for previous years. 
 
@@ -118,27 +118,27 @@ Missing from original 1972-1982 crosswalk, but mentioned in documentation on 80s
 
 * 905: NOTE: IPUMS website ssays "Unemployed, last job armed forces", but the 1990-2000 crosswalk says "Miliary occupation, rank not specified"
 
-1992-Aug1995
+#### 1992-Aug1995
 
 n/a
 
 
-Sept1995-2002
+#### Sept1995-2002
 
 Per IPUMS documentation, 3, 16, and 179 were removed for these years. (Note that as of 3/5/22, https://cps.ipums.org/cps-action/variables/OCC#comparability_section inaccurately describes 179 as lawyers, though it is judges.)
 
 
-2003 - 2010
+#### 2003 - 2010
 
 * 9840 is present in the data beginning in 2003 and has been added to the crosswalk up to the last year. Years prior to that are NA. 
 
 
-2011 - 2019
+#### 2011 - 2019
 
 * 9840 is present in the data beginning in 2003 and has been added to the crosswalk up to the last year. Years prior to that are NA. 
 
 
-2020+
+#### 2020+
 
 * 9840 is present in the data beginning in 2003 and has been added to the crosswalk up to the last year. Years prior to that are NA. 
 
