@@ -6,7 +6,7 @@ NOTE: There are sometimes categories listed on the IPUMS website that are not pr
 
 ### Industry
 
-1971-1982
+#### 1971-1982
 
 * 719: Only 2 individuals were assigned this code in the entire time span. May have been typos. Was not in original crosswalk. Has not been added to the final crosswalk. 
 
