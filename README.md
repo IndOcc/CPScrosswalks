@@ -168,6 +168,9 @@ Per IPUMS documentation, 3, 16, and 179 were removed for these years. (Note that
 [9]  "occ_90-00.xls." IPUMS. Accessed: Sep. 22, 2021. [Online]. Available: https://usa.ipums.org/usa/resources/chapter4/occ_90-00.xls
 
 
+
+License
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
